@@ -8,9 +8,6 @@ public:
             costToQuality.push_back(make_pair(ratio, quality[i]));
         }
         sort(costToQuality.begin(), costToQuality.end());
-        for(auto num:costToQuality){
-            cout<<"ratio: "<<num.first<<" quality: "<<num.second<<'\n';
-        }
         priority_queue<int> maxHeap;
         int totalQuality = 0;
         double minCost = numeric_limits<double>::max();
