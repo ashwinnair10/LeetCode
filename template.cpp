@@ -9,7 +9,7 @@ using namespace std;
 //     node(int x, node* next) : val(x), next(next) {}
 // };
 // int t;
-// cin<<t;
+// cin>>t;
 // while(t--){
 // }
 // for(auto num:vec){
