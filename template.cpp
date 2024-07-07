@@ -1,19 +1,15 @@
 #include<limits>
 #include <bits/stdc++.h>
 using namespace std;
-class Solution{
-    public:
-        void func(){
-            int t;
-            cin>>t;
-            while(t--){
-                
-            }
-            return;
-        }
-};
+void func(){
+    int t;
+    cin>>t;
+    while(t--){    
+        
+    }
+    return;
+}
 int main(){
-    Solution sol;
-    sol.func();
+    func();
     return 0;
 }
