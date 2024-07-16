@@ -1,14 +1,3 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     vector<vector<int>> res;
@@ -39,8 +28,6 @@ public:
         string sd,td;
         findpath(root,sp,sd,s);
         findpath(root,tp,td,t);
-        cout<<direction[0]<<'\n';
-        cout<<direction[1]<<'\n';
         int l,r;
         l=0,r=0;
         while(l<direction[0].length()&&r<direction[1].length()){
