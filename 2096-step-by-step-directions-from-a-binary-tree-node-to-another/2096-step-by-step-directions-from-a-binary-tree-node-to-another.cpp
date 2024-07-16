@@ -13,7 +13,7 @@ class Solution {
 public:
     vector<vector<int>> res;
     vector<string> direction;
-    void findpath(TreeNode* root,vector<int>& path,string dir,int target,int i){
+    void findpath(TreeNode* root,vector<int>& path,string& dir,int& target){
         if(root==nullptr)
         return;
         if(root->val==target){
@@ -23,18 +23,22 @@ public:
             return;
         }
         path.push_back(root->val);
-        findpath(root->left,path,dir+'L',target,i);
+        dir+='L';
+        findpath(root->left,path,dir,target);
+        dir.pop_back();
         path.pop_back();
+        dir+='R';
         path.push_back(root->val);
-        findpath(root->right,path,dir+'R',target,i);
+        findpath(root->right,path,dir,target);
+        dir.pop_back();
         path.pop_back();
         return;
     }
     string getDirections(TreeNode* root, int s, int t) {
         vector<int> sp,tp;
         string sd,td;
-        findpath(root,sp,sd,s,0);
-        findpath(root,tp,td,t,1);
+        findpath(root,sp,sd,s);
+        findpath(root,tp,td,t);
         cout<<direction[0]<<'\n';
         cout<<direction[1]<<'\n';
         int l,r;
