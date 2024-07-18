@@ -1,14 +1,3 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     vector<string> v;
@@ -18,7 +7,6 @@ public:
             i++;
             j++;
         }
-        cout<<"dist "<<a<<' '<<b<<" : "<<(a.size()-i)+(b.size()-j)<<'\n';
         return (a.size()-i)+(b.size()-j);
     }
     void inorder(TreeNode* root,string path){
@@ -33,13 +21,12 @@ public:
     }
     int countPairs(TreeNode* root, int distance) {
         inorder(root,"");
-        for(auto i:v)
-        cout<<i<<'\n';
         int c=0;
         for(int i=0;i<v.size();i++){
             for(int j=i+1;j<v.size();j++){
-                if(dist(v[i],v[j])<=distance)
-                c++;
+                if(dist(v[i],v[j])<=distance){
+                    c++;
+                }  
             }
         }
         return c;
