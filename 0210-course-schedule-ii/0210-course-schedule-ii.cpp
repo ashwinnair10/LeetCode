@@ -25,6 +25,8 @@ public:
                 q.push(i);
             }
         }
+        if(order.size()==n)
         return order;
+        return {};
     }
 };
