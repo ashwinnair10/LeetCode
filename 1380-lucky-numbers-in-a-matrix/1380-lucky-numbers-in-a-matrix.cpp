@@ -12,11 +12,6 @@ public:
             for(int j=0;j<m;j++)
             col[i]=max(col[i],a[j][i]);
         }
-        for(int i=0;i<m;i++)
-        cout<<row[i]<<' ';
-        cout<<'\n';
-        for(auto i:col)
-        cout<<i<<' ';
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(row[i]==col[j])
