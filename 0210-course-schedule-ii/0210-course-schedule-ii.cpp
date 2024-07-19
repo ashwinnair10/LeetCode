@@ -4,12 +4,9 @@ public:
         vector<int> order;
         vector<int> indegree(n);
         vector<vector<int>> adj(n);
-        unordered_set<int> set;
         for(auto i:pre){
             indegree[i[0]]++;
             adj[i[1]].push_back(i[0]);
-            set.insert(i[0]);
-            set.insert(i[1]);
         }
         queue<int> q;
         for(int i=0;i<n;i++)
