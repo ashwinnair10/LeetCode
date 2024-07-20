@@ -17,6 +17,8 @@ public:
                 cmi=i;
             }
         }
+        if(rm==0&&cm==0)
+        break;
         //cout<<"rm : "<<rm<<" rmi: "<<rmi<<" cm: "<<cm<<" cmi: "<<cmi<<'\n';
         if(rm<cm){
             for(int i=0;i<n;i++){
