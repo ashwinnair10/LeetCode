@@ -1,28 +1,16 @@
 class Solution {
 public:
-    int ans=INT_MAX;
-    unordered_map<string,int> dp;
-    int test(vector<int>& a,int ind,int amt,int c){
-        if(amt==0){
-            return c;
-        }
-        if(ind==-1||amt<0)
-        return INT_MAX;
-        string s=to_string(ind)+"."+to_string(amt)+"."+to_string(c);
-        if(dp.find(s)!=dp.end())
-        return dp[s];
-        for(int i=amt/a[ind];i>=0;i--){
-            int k=test(a,ind-1,amt-i*a[ind],c+i);
-            if(k!=INT_MAX){
-                ans=min(ans,k);
+    int coinChange(vector<int>& coins, int n) {
+        int dp[++n];
+        dp[0] = 0;
+        sort(coins.begin(),coins.end());
+        for (int i = 1; i < n; i++) {
+            dp[i] = INT_MAX;
+            for (int c: coins) {
+                if (i - c < 0) break;
+                if (dp[i - c] != INT_MAX) dp[i] = min(dp[i], 1 + dp[i - c]);
             }
         }
-        dp[s]=ans;
-        return ans;
-    }
-    int coinChange(vector<int>& a, int amt) {
-        sort(a.begin(),a.end());
-        int res=test(a,a.size()-1,amt,0);
-        return res==INT_MAX?-1:res;
+        return dp[--n] == INT_MAX ? -1 : dp[n];
     }
 };
