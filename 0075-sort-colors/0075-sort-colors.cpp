@@ -12,7 +12,6 @@ public:
             m++;
             else{
                 swap(a[m],a[r]);
-                m++;
                 r--;
             }
         }
