@@ -18,8 +18,6 @@ public:
             }
         }
         sort(vec.begin(),vec.end(),cmp);
-        for(auto i:vec)
-        cout<<i.first<<' '<<i.second<<'\n';
         vector<int> v;
         for(auto i:vec){
             while(i.second--)
