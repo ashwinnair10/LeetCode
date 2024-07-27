@@ -28,7 +28,7 @@ public:
         long long mincost=0;
         for(int i=0;i<src.length();i++){
             if(dist[src[i]-97][target[i]-97]==inf){
-                cout<<src[i]<<target[i]<<'\n';
+                //cout<<src[i]<<target[i]<<'\n';
                 return -1;
             }
             else if(src[i]==target[i])
