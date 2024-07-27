@@ -18,13 +18,13 @@ public:
                 }
             }
         }
-        for(int i=0;i<26;i++){
-            for(int j=0;j<26;j++){
-                if(dist[i][j]!=inf){
-                    cout<<(char)(i+97)<<' '<<(char)(j+97)<<' '<<dist[i][j]<<'\n';
-                }
-            }
-        }
+        // for(int i=0;i<26;i++){
+        //     for(int j=0;j<26;j++){
+        //         if(dist[i][j]!=inf){
+        //             cout<<(char)(i+97)<<' '<<(char)(j+97)<<' '<<dist[i][j]<<'\n';
+        //         }
+        //     }
+        // }
         long long mincost=0;
         for(int i=0;i<src.length();i++){
             if(dist[src[i]-97][target[i]-97]==inf){
