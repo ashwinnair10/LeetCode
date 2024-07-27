@@ -22,39 +22,34 @@ public:
             visit.insert(i);
         }
         string s="0000";
+        if(visit.find(s)!=visit.end())
+        return -1;
         int j=0;
         queue<pair<string,int>> q;
         q.push({s,0});
         while(!q.empty()){
             string curr=q.front().first;
             int c=q.front().second;
-            //cout<<"curr:"<<curr<<" c:"<<c<<'\n';
             q.pop();
-            if(visit.find(curr)!=visit.end())
-            continue;
-            visit.insert(curr);
             if(curr==target){
                 ans=min(ans,c);
-                //break;
                 continue;
             }
             int j=0;
             int n=4,l=0;
-            while(curr[j]==target[j])
-            j++;
             for(int i=j%4,l=0;l<4;l++,i=(i+1)%4){
                 string s1=change(curr,i,0);
                 string s2=change(curr,i,1);
                 if(visit.find(s2)==visit.end()){
                     q.push({s2,c+1});
+                    visit.insert(s2);
                 }
                 if(visit.find(s1)==visit.end()){
                     q.push({s1,c+1});
+                    visit.insert(s1);
                 }
             }
         }
-        if(ans==INT_MAX)
-        return -1;
-        return ans;
+        return ans==INT_MAX?-1:ans;
     }
 };
