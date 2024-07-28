@@ -1,19 +1,40 @@
 class Solution {
 public:
-    bool isMatch(string s, string p) {
-        int n=s.length(),m=p.length();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
-        dp[0][0]=1;
-        for(int i=0;i<=n;i++){
-            for(int j=1;j<=m;j++){
-                if(p[j-1]=='*'){
-                    dp[i][j]=dp[i][j-2]||(i>0&&(s[i-1]==p[j-2]||p[j-2]=='.')&&dp[i-1][j]);
-                }
-                else{
-                    dp[i][j]=i>0&&dp[i-1][j-1]&&(s[i-1]==p[j-1]||p[j-1]=='.');
-                }
+    int dfs(vector<vector<int>>& dp,string& s,string& p,int i,int j){
+        if(i>=s.length()&&j>=p.length())
+        return 1;
+        if(j>=p.length())
+        return 0;
+        if(i>=s.length()){
+            int curr=j;
+            int value=0;
+            while(curr<p.length()){
+                if(p[curr]=='*')
+                value-=1;
+                else
+                value+=1;
+                curr++;
             }
+            return value<=0;
         }
-        return dp[n][m]?true:false;
+        if(i<s.length()&&dp[i][j]!=-1)
+        return dp[i][j];
+        int match=(i<s.length()&&(s[i]==p[j]||p[j]=='.'));
+        if(i<s.length()&&j+1<p.length()&&p[j+1]=='*'){
+            dp[i][j]=dfs(dp,s,p,i,j+2)||(match&&dfs(dp,s,p,i+1,j));
+            return dp[i][j];
+        }
+        if(match){
+            dp[i][j]=dfs(dp,s,p,i+1,j+1);
+            return dp[i][j];
+        }
+        if(i<s.length())
+        dp[i][j]=0;
+        return 0;
+    }
+    bool isMatch(string s, string p) {
+        int m=s.length(),n=p.length();
+        vector<vector<int>> dp(m,vector<int>(n,-1));
+        return dfs(dp,s,p,0,0)?true:false;
     }
 };
