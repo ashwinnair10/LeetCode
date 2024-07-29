@@ -7,14 +7,16 @@ public:
             if(a[m]==target)
             return m;
             if(a[l]<=a[m]){
-                if(a[l]<=target&&target<a[m])
-                r=m-1;
+                if(a[l]<=target&&target<a[m]){
+                    r=m-1;
+                }
                 else
                 l=m+1;
             }
             else{
-                if(a[m]<target&&target<=a[r])
-                l=m+1;
+                if(a[m]<target&&target<=a[r]){
+                    l=m+1;
+                }
                 else
                 r=m-1;
             }
