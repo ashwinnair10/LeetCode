@@ -1,29 +1,20 @@
 class Solution {
 public:
-    void test(vector<vector<int>>& ans,vector<int> curr,vector<int>& a,int ind,int n,int c,int k){
-        if(c==k){
-            curr.push_back(a[ind]);
-            ans.push_back(curr);
+    vector<vector<int>> combine(int n, int k) {
+        vector<vector<int>> res;
+        vector<int> comb;
+        backtrack(1, comb, res, n, k);
+        return res;        
+    }
+    void backtrack(int start, vector<int>& comb, vector<vector<int>>& res, int n, int k) {
+        if (comb.size() == k) {
+            res.push_back(comb);
             return;
         }
-        if(ind>=n)
-        return;
-        curr.push_back(a[ind]);
-        for(int i=ind+1;i<n;i++){
-            test(ans,curr,a,i,n,c+1,k);
+        for (int num = start; num <= n; num++) {
+            comb.push_back(num);
+            backtrack(num + 1, comb, res, n, k);
+            comb.pop_back();
         }
-        curr.pop_back();
-        return;
-    }
-    vector<vector<int>> combine(int n, int k) {
-        vector<vector<int>> ans;
-        vector<int> curr;
-        vector<int> a;
-        for(int i=0;i<n;i++)
-        a.push_back(i+1);
-        for(int i=0;i<n;i++){
-            test(ans,curr,a,i,n,1,k);
-        }
-        return ans;
-    }
+    }    
 };
