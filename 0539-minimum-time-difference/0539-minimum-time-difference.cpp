@@ -4,7 +4,6 @@ public:
         int ans=INT_MAX;
         vector<vector<int>> v(24,vector<int>(60,0));
         for(int i=0;i<a.size();i++){
-            //cout<<stoi(a[i].substr(0,2))<<" "<<stoi(a[i].substr(3,2))<<"\n";
             if(v[stoi(a[i].substr(0,2))][stoi(a[i].substr(3,2))]==1)
             return 0;
             v[stoi(a[i].substr(0,2))][stoi(a[i].substr(3,2))]=1;
@@ -24,12 +23,10 @@ public:
                 }
             }
             c++;
-            cout<<"c:"<<c<<'\n';
             j=(j+1)%60;
             if(!j)
             i=(i+1)%24;
         }
-        cout<<si<<" "<<sj;
         return min(ans,c);
     }
 };
