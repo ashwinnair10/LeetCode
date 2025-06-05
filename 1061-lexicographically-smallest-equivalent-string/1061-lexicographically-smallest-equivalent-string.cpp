@@ -21,6 +21,10 @@ public:
         vector<int> map(26,-1);
         string ans="";
         for(int i=0;i<baseStr.length();i++){
+            if(map[baseStr[i]-97]!=-1){
+                ans+=map[baseStr[i]-97]+97;
+                continue;
+            }
             vector<int> list(26,0),visit(26,0);
             list[baseStr[i]-97]=1;
             for(int j=0;j<26;j++){
@@ -31,13 +35,11 @@ public:
             for(int j=0;j<26;j++){
                 if(list[j]){
                     ans+=(j+97);
+                    map[baseStr[i]-97]=j;
                     break;
                 }
             }
         }
-        // for(int i=0;i<baseStr.length();i++){
-        //     ans+=(map[baseStr[i]-97])+97;
-        // }
         return ans;
     }
 };
