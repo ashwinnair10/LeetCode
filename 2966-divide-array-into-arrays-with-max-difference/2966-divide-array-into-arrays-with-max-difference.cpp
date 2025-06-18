@@ -1,11 +1,12 @@
 class Solution {
 public:
     vector<vector<int>> divideArray(vector<int>& nums, int k) {
-        vector<vector<int>> ans(nums.size()/3);
+        vector<vector<int>> ans;
         sort(nums.begin(),nums.end());
         int j=0,ind=0;
         for(int i=0;i<nums.size();i++){
             if(j==0){
+                ans.push_back({});
                 ans[ind].push_back(nums[i]);
             }
             else if(j==1){
