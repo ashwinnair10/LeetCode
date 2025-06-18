@@ -4,25 +4,11 @@ public:
         vector<vector<int>> ans;
         sort(nums.begin(),nums.end());
         int j=0,ind=0;
-        for(int i=0;i<nums.size();i++){
-            if(j==0){
-                ans.push_back({});
-                ans[ind].push_back(nums[i]);
+        for(int i=0;i<nums.size();i+=3){
+            if(nums[i+2]-nums[i]>k||nums[i+1]-nums[i]>k){
+                return {};
             }
-            else if(j==1){
-                if(nums[i]-ans[ind][0]>k){
-                    return {};
-                }
-                ans[ind].push_back(nums[i]);
-            }
-            else{
-                if(nums[i]-ans[ind][0]>k||nums[i]-ans[ind][1]>k){
-                    return {};
-                }
-                ans[ind].push_back(nums[i]);
-                ind++;
-            }
-            j=(j+1)%3;
+            ans.push_back({nums[i],nums[i+1],nums[i+2]});
         }
         return ans;
     }
