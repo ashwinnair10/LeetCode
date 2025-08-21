@@ -2,7 +2,7 @@ class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
         long long ans=0;
-        int c=0;
+        long long c=0;
         for(auto i:nums){
             if(i){
                 ans+=(c*(c+1))/2;
