@@ -1,5 +1,8 @@
 class Solution {
 public:
+    int gcd(int a, int b) {
+        return b == 0 ? a : gcd(b, a % b);
+    }
     vector<int> replaceNonCoprimes(vector<int>& nums) {
         vector<int> stack;
         for (int num : nums) {
@@ -16,8 +19,5 @@ public:
             stack.push_back(num);
         }
         return stack;
-    }
-    int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a % b);
     }
 };
