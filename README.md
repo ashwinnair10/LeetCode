@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashwinnair10/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/ashwinnair10/LeetCode/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
