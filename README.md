@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/ashwinnair10/LeetCode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/ashwinnair10/LeetCode/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
