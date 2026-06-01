@@ -4,7 +4,7 @@ public:
         long long l,r;
         if(ind>n)
             return 1;
-        if(dp[ind][type]!=-1){
+        if(dp[ind][type]!=0){
             return dp[ind][type];
         }
         if(ind==1){
@@ -24,7 +24,7 @@ public:
         return dp[ind][type]=(l*test(ind+1,n,1,dp)+r*test(ind+1,n,0,dp))%1000000007;
     }
     int numOfWays(int n) {
-        vector<vector<long long>> dp(n+1,vector<long long>(2,-1));
+        vector<vector<long long>> dp(n+1,vector<long long>(2));
         int ans=(int)(test(1,n,0,dp))%1000000007;
         return ans;
     }
