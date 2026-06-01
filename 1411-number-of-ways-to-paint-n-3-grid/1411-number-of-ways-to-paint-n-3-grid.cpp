@@ -1,12 +1,12 @@
 class Solution {
 public:
     long long test(int ind,int n,int type,vector<vector<long long>>& dp){
-        long long l,r;
         if(ind>n)
             return 1;
         if(dp[ind][type]!=0){
             return dp[ind][type];
         }
+        long long l,r;
         if(ind==1){
             l=6;
             r=6;
