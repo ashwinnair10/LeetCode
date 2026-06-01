@@ -25,7 +25,7 @@ public:
     }
     int numOfWays(int n) {
         vector<vector<long long>> dp(n+1,vector<long long>(2));
-        int ans=(int)(test(1,n,0,dp))%1000000007;
+        int ans=(int)(test(1,n,0,dp));
         return ans;
     }
 };
