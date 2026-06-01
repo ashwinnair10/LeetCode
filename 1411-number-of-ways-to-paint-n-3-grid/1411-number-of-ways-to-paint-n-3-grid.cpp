@@ -1,31 +1,13 @@
 class Solution {
 public:
-    long long test(int ind,int n,int type,vector<vector<long long>>& dp){
-        if(ind>n)
-            return 1;
-        if(dp[ind][type]!=0){
-            return dp[ind][type];
-        }
-        long long l,r;
-        if(ind==1){
-            l=6;
-            r=6;
-        }
-        else{
-            if(type==0){
-                l=2;
-                r=2;
-            }
-            else{
-                l=3;
-                r=2;
-            }
-        }
-        return dp[ind][type]=(l*test(ind+1,n,1,dp)+r*test(ind+1,n,0,dp))%1000000007;
-    }
     int numOfWays(int n) {
-        vector<vector<long long>> dp(n+1,vector<long long>(2));
-        int ans=(int)(test(1,n,0,dp));
-        return ans;
+        long long x=6,y=6;
+        for(int i=2;i<=n;i++){
+            long long p=3*x+2*y;
+            long long q=2*x+2*y;
+            x=p%1000000007;
+            y=q%1000000007;
+        }
+        return (x+y)%1000000007;
     }
 };
