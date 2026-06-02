@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/ashwinnair10/LeetCode/tree/master/2485-find-the-pivot-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
