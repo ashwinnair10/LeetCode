@@ -29,17 +29,8 @@ public:
             }
             else l=false;
         }
-        if(left.size()!=0)
         root->left=test(preorder,left,ind+1);
         root->right=test(preorder,right,ind+1+left.size());
-        // cout<<"root : "<<preorder[ind]<<"\n";
-        // cout<<"left : ";
-        // for(auto i:left)
-        // cout<<i<<" ";
-        // cout<<"\nright : ";
-        // for(auto i:right)
-        // cout<<i<<" ";
-        // cout<<"\n-----------------------------\n";
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
