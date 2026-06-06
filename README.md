@@ -43,17 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
