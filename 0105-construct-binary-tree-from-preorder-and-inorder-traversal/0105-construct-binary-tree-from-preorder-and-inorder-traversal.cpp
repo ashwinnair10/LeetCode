@@ -11,29 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* test(vector<int>& preorder,vector<int>& inorder,int ind){
-        if(inorder.size()==0)
+    TreeNode* test(vector<int>& preorder,int& pre,int ins,int ine,unordered_map<int,int>& idx){
+        if(ins>ine)
         return nullptr;
-        if(inorder.size()==1){
-            return new TreeNode(inorder[0]);
-        }
-        TreeNode* root=new TreeNode(preorder[ind]);
-        vector<int> left,right;
-        bool l=true;
-        for(int i=0;i<inorder.size();i++){
-            if(inorder[i]!=preorder[ind]){
-                if(l)
-                left.push_back(inorder[i]);
-                else
-                right.push_back(inorder[i]);
-            }
-            else l=false;
-        }
-        root->left=test(preorder,left,ind+1);
-        root->right=test(preorder,right,ind+1+left.size());
+        int val=preorder[pre];
+        TreeNode* root=new TreeNode(val);
+        pre++;
+        root->left=test(preorder,pre,ins,idx[val]-1,idx);
+        root->right=test(preorder,pre,idx[val]+1,ine,idx);
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        return test(preorder,inorder,0);
+        int n=inorder.size();
+        unordered_map<int,int> inorder_index;
+        for(int i=0;i<n;i++){
+            inorder_index[inorder[i]]=i;
+        }
+        int pre=0;
+        return test(preorder,pre,0,inorder.size()-1,inorder_index);
     }
 };
