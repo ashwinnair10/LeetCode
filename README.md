@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashwinnair10/LeetCode/tree/master/0217-contains-duplicate) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashwinnair10/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ashwinnair10/LeetCode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ashwinnair10/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ashwinnair10/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ashwinnair10/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashwinnair10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
