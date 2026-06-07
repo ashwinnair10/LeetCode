@@ -1,29 +1,36 @@
 class Solution {
 public:
-    vector<int> findOrder(int n, vector<vector<int>>& pre) {
-        vector<int> order;
-        vector<int> indegree(n);
-        vector<vector<int>> adj(n);
-        for(auto i:pre){
+    vector<int> findOrder(int n, vector<vector<int>>& prereq) {
+        vector<int> indegree(n,0);
+        vector<vector<int>> adj(n,vector<int>());
+        vector<int> res;
+        for(auto i:prereq){
             indegree[i[0]]++;
             adj[i[1]].push_back(i[0]);
         }
         queue<int> q;
-        for(int i=0;i<n;i++)
-        if(!indegree[i])
-        q.push(i);
+        for(int i=0;i<n;i++){
+            if(!indegree[i])
+            q.push(i);
+        }
+        vector<int> visit(n,0);
         while(!q.empty()){
-            int curr=q.front();
-            order.push_back(curr);
+            int k=q.front();
+            res.push_back(k);
             q.pop();
-            for(auto i:adj[curr]){
+            visit[k]=1;
+            for(auto i:adj[k]){
                 indegree[i]--;
-                if(!indegree[i])
+                if(indegree[i]==0)
                 q.push(i);
             }
         }
-        if(order.size()==n)
-        return order;
+        bool ans=true;
+        for(auto i:visit){
+            ans=ans&&(i);
+        }
+        if(ans)
+        return res;
         return {};
     }
 };
