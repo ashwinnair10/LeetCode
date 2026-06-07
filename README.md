@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/ashwinnair10/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ashwinnair10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
