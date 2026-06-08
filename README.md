@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ashwinnair10/LeetCode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashwinnair10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ashwinnair10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashwinnair10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Queue
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashwinnair10/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
