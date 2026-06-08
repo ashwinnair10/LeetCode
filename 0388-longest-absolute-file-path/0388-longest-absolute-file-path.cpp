@@ -7,7 +7,6 @@ public:
         string curr="";
         for(int i=0;i<input.length();i++){
             if(input[i]=='\n'){
-                cout<<curr<<"\n";
                 int tabs=0;
                 while(curr[tabs]=='\t')
                 tabs++;
