@@ -24,7 +24,6 @@ public:
         }
         count[s[s.length()-1]-97]=max(count[s[s.length()-1]-97],l);
         for(int i=0;i<26;i++){
-            cout<<(char)(i+97)<<" : "<<count[i]<<'\n';
             ans+=count[i];
         }
         return ans;
