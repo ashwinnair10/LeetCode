@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0388-longest-absolute-file-path](https://github.com/ashwinnair10/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Linked List
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ashwinnair10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashwinnair10/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ashwinnair10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ashwinnair10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Indexed Tree
 |  |
 | ------- |
