@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/ashwinnair10/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/ashwinnair10/LeetCode/tree/master/3660-jump-game-ix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ashwinnair10/LeetCode/tree/master/0310-minimum-height-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 ## Sorting
 |  |
 | ------- |
