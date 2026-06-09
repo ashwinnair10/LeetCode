@@ -6,13 +6,11 @@ public:
         }
         int c=0;
         if(!f[0]&&!f[1]){
-            cout<<"hi"<<"\n";
             c++;
             f[0]=1;
         }
         for(int i=1;i<f.size()-1;i++){
             if(!f[i]&&!f[i-1]&&!f[i+1]){
-                cout<<i<<"\n";
                 f[i]=1;
                 c++;
             }
