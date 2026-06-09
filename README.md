@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ashwinnair10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ashwinnair10/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
