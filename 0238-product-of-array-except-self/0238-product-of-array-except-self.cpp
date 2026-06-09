@@ -10,10 +10,9 @@ public:
             s.push_back(b);
             b*=nums[n-1-i];
         }
-        vector<int> ans;
         for(int i=0;i<n;i++){
-            ans.push_back(p[i]*s[n-1-i]);
+            p[i]=p[i]*s[n-1-i];
         }
-        return ans;
+        return p;
     }
 };
