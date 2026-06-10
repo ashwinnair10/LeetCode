@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ashwinnair10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashwinnair10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/ashwinnair10/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/ashwinnair10/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ashwinnair10/LeetCode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/ashwinnair10/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ashwinnair10/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ashwinnair10/LeetCode/tree/master/0443-string-compression) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/ashwinnair10/LeetCode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
