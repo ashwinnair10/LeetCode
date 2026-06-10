@@ -1,12 +1,5 @@
 class Solution {
 public:
-    string tostring(vector<int>& a){
-        string ans="";
-        for(auto i:a){
-            ans+="."+to_string(i);
-        }
-        return ans;
-    }
     int equalPairs(vector<vector<int>>& grid) {
         map<vector<int>,int> map;
         int ans=0;
