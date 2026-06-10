@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ashwinnair10/LeetCode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashwinnair10/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashwinnair10/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashwinnair10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ashwinnair10/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashwinnair10/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashwinnair10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3660-jump-game-ix](https://github.com/ashwinnair10/LeetCode/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashwinnair10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ashwinnair10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashwinnair10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashwinnair10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashwinnair10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
 |  |
 | ------- |
