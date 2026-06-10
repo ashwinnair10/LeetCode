@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashwinnair10/LeetCode/tree/master/0443-string-compression) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0649-dota2-senate](https://github.com/ashwinnair10/LeetCode/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashwinnair10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ashwinnair10/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ashwinnair10/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/ashwinnair10/LeetCode/tree/master/0649-dota2-senate) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashwinnair10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashwinnair10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/ashwinnair10/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/ashwinnair10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
