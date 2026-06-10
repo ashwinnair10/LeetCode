@@ -13,12 +13,12 @@ public:
     int pairSum(ListNode* head) {
         int n=0;
         int ans=0;
-        unordered_map<int,int> map;
         ListNode* root=head;
         while(root){
             n++;
             root=root->next;
         }
+        vector<int> map(n,0);
         int c=0;
         root=head;
         while(root){
