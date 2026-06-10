@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashwinnair10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashwinnair10/LeetCode/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ashwinnair10/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashwinnair10/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashwinnair10/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
