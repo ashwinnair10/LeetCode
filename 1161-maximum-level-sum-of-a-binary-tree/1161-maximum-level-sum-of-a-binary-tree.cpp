@@ -1,34 +1,43 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int maxLevelSum(TreeNode* root) {
-        queue<TreeNode* > q;
-        int sum=0,level=1,m=INT_MIN,ml=-1;
-        TreeNode* x=new TreeNode(INT_MAX);
-        if(root==nullptr)
-        return 0;
-        q.push(root);
-        q.push(x);
-        while(!q.empty()){
-            TreeNode* curr=q.front();
-            sum+=curr->val;
-            q.pop();
-            TreeNode* check=q.front();
-            if(check==x){
-                if(sum>m){
-                    m=sum;
-                    ml=level;
-                }
-                sum=0;
-                level++;
-                q.pop();
-            }
-            if(curr->left!=nullptr)
-            q.push(curr->left);
-            if(curr->right!=nullptr)
-            q.push(curr->right);
-            if(check==x)
-            q.push(x);
+    void traverse(TreeNode* root,int l,vector<vector<int>>& level){
+        if(!root)
+        return;
+        if(l>=level.size()){
+            level.push_back({});
         }
-        return ml;
+        level[l].push_back(root->val);
+        traverse(root->left,l+1,level);
+        traverse(root->right,l+1,level);
+        return;
+    }
+    int maxLevelSum(TreeNode* root) {
+        vector<vector<int>> level;
+        traverse(root,0,level);
+        int m=INT_MIN,ans=0;
+        for(int i=0;i<level.size();i++){
+            int s=0;
+            for(auto j:level[i]){
+                cout<<j<<" ";
+                s+=j;
+            }
+            cout<<"\n";
+            if(m<s){
+                ans=i;
+                m=s;
+            }
+        }
+        return ans+1;
     }
 };
