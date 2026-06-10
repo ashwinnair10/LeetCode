@@ -29,10 +29,8 @@ public:
         for(int i=0;i<level.size();i++){
             int s=0;
             for(auto j:level[i]){
-                cout<<j<<" ";
                 s+=j;
             }
-            cout<<"\n";
             if(m<s){
                 ans=i;
                 m=s;
