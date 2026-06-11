@@ -25,7 +25,6 @@ public:
             ans=(ans*2)%1000000007;
             md--;
         }
-        cout<<"max path length : "<<md<<"\n";
         return ans;
     }
 };
