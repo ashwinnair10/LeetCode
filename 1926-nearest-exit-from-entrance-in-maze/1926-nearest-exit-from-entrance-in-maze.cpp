@@ -15,7 +15,6 @@ public:
         while(!q.empty()){
             auto v=q.front();
             int x=v[0],y=v[1],steps=v[2];
-            // cout<<"x : "<<x<<" , y : "<<y<<" , steps : "<<steps<<"\n";
             q.pop();
             if(validExit(x,y,maze,entrance))
                 return steps;
