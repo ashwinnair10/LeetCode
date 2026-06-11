@@ -4,7 +4,7 @@ public:
         return (i>=0&&i<m)&&(j>=0&&j<n)&&(grid[i][j]!=0);
     }
     int orangesRotting(vector<vector<int>>& grid) {
-        int count=0,c=0;
+        int count=0;
         int m=grid.size(),n=grid[0].size();
         queue<vector<int>> q;
         vector<vector<int>> visit(m,vector<int>(n,0));
@@ -26,8 +26,8 @@ public:
             int x=v[0],y=v[1],time=v[2];
             if(grid[x][y]==1){
                 grid[x][y]=2;
-                c++;
-                if(count==c)
+                count--;
+                if(!count)
                 return time;
             }
             for(int i=0;i<4;i++){
@@ -38,6 +38,6 @@ public:
                 }
             }
         }
-        return (count==c)?c:-1;
+        return (count==0)?0:-1;
     }
 };
