@@ -10,15 +10,19 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        int num=n/2;
-        while(guess(num)!=0){
-            if(guess(num)==1){
-                num++;
+        int l=0,r=n,m;
+        while(l<=r){
+            m=l+(r-l)/2;
+            int k=guess(m);
+            if(k==0)
+            return m;
+            else if(k==1){
+                l=m+1;
             }
             else{
-                num--;
+                r=m-1;
             }
         }
-        return num;
+        return m;
     }
 };
