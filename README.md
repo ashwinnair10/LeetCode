@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/ashwinnair10/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashwinnair10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -450,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/ashwinnair10/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ashwinnair10/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
