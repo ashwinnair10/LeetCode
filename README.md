@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ashwinnair10/LeetCode/tree/master/0009-palindrome-number) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashwinnair10/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ashwinnair10/LeetCode/tree/master/1390-four-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/ashwinnair10/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ashwinnair10/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashwinnair10/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashwinnair10/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/ashwinnair10/LeetCode/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
