@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/ashwinnair10/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ashwinnair10/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Indexed Tree
 |  |
