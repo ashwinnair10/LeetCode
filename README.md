@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/ashwinnair10/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwinnair10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashwinnair10/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0065-valid-number](https://github.com/ashwinnair10/LeetCode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/ashwinnair10/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/ashwinnair10/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ashwinnair10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
