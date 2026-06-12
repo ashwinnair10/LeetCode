@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ashwinnair10/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/ashwinnair10/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashwinnair10/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/ashwinnair10/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Indexed Tree
