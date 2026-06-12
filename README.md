@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0649-dota2-senate](https://github.com/ashwinnair10/LeetCode/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/ashwinnair10/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1268-search-suggestions-system](https://github.com/ashwinnair10/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashwinnair10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ashwinnair10/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ashwinnair10/LeetCode/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashwinnair10/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
