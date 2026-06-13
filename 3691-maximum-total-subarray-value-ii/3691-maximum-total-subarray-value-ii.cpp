@@ -24,8 +24,8 @@ public:
         return {min(left.first,right.first),max(left.second,right.second)};
     }
     long long maxTotalValue(vector<int>& nums, int k) {
-        priority_queue<pair<int,vector<int>>> pq;
-        set<vector<int>> visit;
+        priority_queue<pair<int,pair<int,int>>> pq;
+        set<pair<int,int>> visit;
         int n=nums.size();
         vector<pair<int,int>> st(4*n);
         buildTree(nums,st,1,0,n-1);
@@ -38,8 +38,8 @@ public:
         int l,r;
         while(!pq.empty()&&k-->0){
             s+=pq.top().first;
-            l=pq.top().second[0];
-            r=pq.top().second[1];
+            l=pq.top().second.first;
+            r=pq.top().second.second;
             pq.pop();
             if(l<r){
                 if(visit.find({l+1,r})==visit.end()){
