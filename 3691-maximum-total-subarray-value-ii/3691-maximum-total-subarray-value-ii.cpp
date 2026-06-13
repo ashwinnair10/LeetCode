@@ -1,48 +1,59 @@
-class SparseTable {
-    vector<vector<int>> Min, Max;
-
-public:
-    SparseTable(const vector<int>& num) {
-        size_t n = num.size();
-        int w = bit_width(n);
-        Min.resize(w, vector<int>(n));
-        Max.resize(w, vector<int>(n));
-
-        for (int i = 0; i < n; i++)
-            Min[0][i] = Max[0][i] = num[i];
-
-        for (int i = 1; i < w; i++)
-            for (int j = 0; j + (1 << i) <= n; j++) {
-                Min[i][j] = min(Min[i - 1][j], Min[i - 1][j + (1 << (i - 1))]);
-                Max[i][j] = max(Max[i - 1][j], Max[i - 1][j + (1 << (i - 1))]);
-            }
-    }
-
-    int query(int left, int right) {
-        int k = bit_width((uint32_t)right - left) - 1;
-        return max(Max[k][left], Max[k][right - (1 << k)]) -
-               min(Min[k][left], Min[k][right - (1 << k)]);
-    }
-};
-
 class Solution {
 public:
-    long long maxTotalValue(vector<int>& nums, int k) {
-        int n = nums.size();
-        long long res = 0;
-        SparseTable LUT(nums);
-
-        priority_queue<tuple<int, int, int>> pq;
-        for (int i = 0; i < n; i++)
-            pq.emplace(LUT.query(i, n), i, n);
-
-        while (get<0>(pq.top()) && k--) {
-            auto [val, l, r] = pq.top();
-            pq.pop();
-            res += val;
-            pq.emplace(LUT.query(l, r - 1), l, r - 1);
+    void buildTree(vector<int>& nums,vector<pair<int,int>>& st,int node,int l,int r){
+        if(l==r){
+            st[node]={nums[l],nums[l]};
+            return;
         }
-
-        return res;
+        int m=l+(r-l)/2;
+        buildTree(nums,st,2*node,l,m);
+        buildTree(nums,st,2*node+1,m+1,r);
+        st[node]={min(st[2*node].first,st[2*node+1].first),max(st[2*node].second,st[2*node+1].second)};
+        return;
+    }
+    pair<int,int> query(vector<pair<int,int>>& st,int node,int l,int r,int tl,int tr){
+        if(tl<=l&&r<=tr){
+            return st[node];
+        }
+        if(r<tl||l>tr){
+            return {INT_MAX,INT_MIN};
+        }
+        int m=l+(r-l)/2;
+        auto left=query(st,2*node,l,m,tl,tr);
+        auto right=query(st,2*node+1,m+1,r,tl,tr);
+        return {min(left.first,right.first),max(left.second,right.second)};
+    }
+    long long maxTotalValue(vector<int>& nums, int k) {
+        priority_queue<pair<int,vector<int>>> pq;
+        set<vector<int>> visit;
+        int n=nums.size();
+        vector<pair<int,int>> st(4*n);
+        buildTree(nums,st,1,0,n-1);
+        for(int i=0;i<n;i++){
+            auto res=query(st,1,0,n-1,i,n-1);
+            pq.push({res.second-res.first,{i,n-1}});
+            visit.insert({i,n-1});
+        }
+        long long s=0;
+        int l,r;
+        while(!pq.empty()&&k-->0){
+            s+=pq.top().first;
+            l=pq.top().second[0];
+            r=pq.top().second[1];
+            pq.pop();
+            if(l<r){
+                if(visit.find({l+1,r})==visit.end()){
+                    visit.insert({l+1,r});
+                    auto res=query(st,1,0,n-1,l+1,r);
+                    pq.push({res.second-res.first,{l+1,r}});
+                }
+                if(visit.find({l,r-1})==visit.end()){
+                    visit.insert({l,r-1});
+                    auto res=query(st,1,0,n-1,l,r-1);
+                    pq.push({res.second-res.first,{l,r-1}});
+                }
+            }
+        }
+        return s;
     }
 };
