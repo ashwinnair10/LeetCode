@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashwinnair10/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/ashwinnair10/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ashwinnair10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/ashwinnair10/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ashwinnair10/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/ashwinnair10/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ashwinnair10/LeetCode/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashwinnair10/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
