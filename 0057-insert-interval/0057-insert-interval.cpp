@@ -13,14 +13,6 @@ public:
             idx=i;
         }
         intervals.insert(intervals.begin()+idx+1,newInterval);
-
-
-
-
-
-        for(auto i:intervals){
-            cout<<i[0]<<" "<<i[1]<<"\n";
-        }
         int start=intervals[0][0],end=intervals[0][1];
         for(int i=1;i<intervals.size();i++){
             if(intervals[i][0]>end){
