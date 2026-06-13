@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashwinnair10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashwinnair10/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/ashwinnair10/LeetCode/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ashwinnair10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
