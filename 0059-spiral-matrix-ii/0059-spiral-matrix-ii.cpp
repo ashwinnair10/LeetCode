@@ -6,23 +6,19 @@ public:
         int val=1;
         while(ru<=rl&&cu<=cl){
             for(int i=cu;i<=cl;i++){
-                ans[ru][i]=val;
-                val++;
+                ans[ru][i]=val++;
             }
             ru++;
             for(int i=ru;i<=rl;i++){
-                ans[i][cl]=val;
-                val++;
+                ans[i][cl]=val++;
             }
             cl--;
             for(int i=cl;i>=cu;i--){
-                ans[rl][i]=val;
-                val++;
+                ans[rl][i]=val++;
             }
             rl--;
             for(int i=rl;i>=ru;i--){
-                ans[i][cu]=val;
-                val++;
+                ans[i][cu]=val++;
             }
             cu++;
         }
