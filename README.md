@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ashwinnair10/LeetCode/tree/master/0383-ransom-note) |
 | [0388-longest-absolute-file-path](https://github.com/ashwinnair10/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ashwinnair10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/ashwinnair10/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ashwinnair10/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/ashwinnair10/LeetCode/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ashwinnair10/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Enumeration
 |  |
