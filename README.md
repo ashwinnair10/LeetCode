@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ashwinnair10/LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/ashwinnair10/LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ashwinnair10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashwinnair10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/ashwinnair10/LeetCode/tree/master/0388-longest-absolute-file-path) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashwinnair10/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/ashwinnair10/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ashwinnair10/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ashwinnair10/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ashwinnair10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashwinnair10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashwinnair10/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ashwinnair10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/ashwinnair10/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ashwinnair10/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
