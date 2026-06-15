@@ -10,7 +10,6 @@ public:
                 ans+=map[s-k];
             }
             map[s]++;
-            cout<<"s : "<<s<<"\n";
         }
         return ans;
     }
