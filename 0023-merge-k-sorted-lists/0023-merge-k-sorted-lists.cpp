@@ -32,7 +32,6 @@ public:
                     min=i;
                 }
             }
-            cout<<"min : "<<min<<"\n";
             if(min==-1)
             break;
             if(res==nullptr){
