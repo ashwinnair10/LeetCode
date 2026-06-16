@@ -9,7 +9,6 @@ public:
                 if(i[j]==' ')
                 break;
                 n=(n*10)+(i[j]-'0');
-                // cout<<"n : "<<n<<"\n";
             }
             string d="";
             for(int j=i.length()-1;j>=0;j--){
@@ -23,7 +22,6 @@ public:
                     reverse(s.begin(),s.end());
                     d=s+d;
                     map[d]+=n;
-                    s="";
                     break;
                 }
                 s+=i[j];
