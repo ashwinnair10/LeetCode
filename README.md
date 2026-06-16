@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/ashwinnair10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ashwinnair10/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/ashwinnair10/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2899-last-visited-integers](https://github.com/ashwinnair10/LeetCode/tree/master/2899-last-visited-integers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ashwinnair10/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ashwinnair10/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2899-last-visited-integers](https://github.com/ashwinnair10/LeetCode/tree/master/2899-last-visited-integers) |
 | [3612-process-string-with-special-operations-i](https://github.com/ashwinnair10/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ashwinnair10/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Function
