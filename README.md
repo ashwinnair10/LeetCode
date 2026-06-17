@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ashwinnair10/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ashwinnair10/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ashwinnair10/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashwinnair10/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashwinnair10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ashwinnair10/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/ashwinnair10/LeetCode/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashwinnair10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ashwinnair10/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ashwinnair10/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashwinnair10/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
