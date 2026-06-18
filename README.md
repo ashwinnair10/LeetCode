@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ashwinnair10/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ashwinnair10/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ashwinnair10/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ashwinnair10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ashwinnair10/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -610,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashwinnair10/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
