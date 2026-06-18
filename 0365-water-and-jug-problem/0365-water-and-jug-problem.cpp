@@ -10,13 +10,13 @@ public:
             q.pop();
             if(i==target||j==target||i+j==target)
             return true;
-            if(!mp[{max(i,x),j}]){
-                q.push({max(i,x),j});
-                mp[{max(i,x),j}]=1;
+            if(!mp[{x,j}]){
+                q.push({x,j});
+                mp[{x,j}]=1;
             }
-            if(!mp[{i,max(j,y)}]){
-                q.push({i,max(j,y)});
-                mp[{i,max(j,y)}]=1;
+            if(!mp[{i,y}]){
+                q.push({i,y});
+                mp[{i,y}]=1;
             }
             if(!mp[{i,0}]){
                 q.push({i,0});
