@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ashwinnair10/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
+| [0365-water-and-jug-problem](https://github.com/ashwinnair10/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/ashwinnair10/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/ashwinnair10/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0388-longest-absolute-file-path](https://github.com/ashwinnair10/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/ashwinnair10/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ashwinnair10/LeetCode/tree/master/0437-path-sum-iii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ashwinnair10/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/ashwinnair10/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/ashwinnair10/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ashwinnair10/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ashwinnair10/LeetCode/tree/master/0841-keys-and-rooms) |
