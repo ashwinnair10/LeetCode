@@ -7,7 +7,6 @@ public:
         mp[{0,0}]=1;
         while(!q.empty()){
             int i=q.front().first,j=q.front().second;
-            cout<<"i : "<<i<<" , j : "<<j<<"\n";
             q.pop();
             if(i==target||j==target||i+j==target)
             return true;
