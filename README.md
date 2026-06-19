@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/ashwinnair10/LeetCode/tree/master/0495-teemo-attacking) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/ashwinnair10/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/ashwinnair10/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinnair10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ashwinnair10/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinnair10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ashwinnair10/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/ashwinnair10/LeetCode/tree/master/0443-string-compression) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0500-keyboard-row](https://github.com/ashwinnair10/LeetCode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0649-dota2-senate](https://github.com/ashwinnair10/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ashwinnair10/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ashwinnair10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0460-lfu-cache](https://github.com/ashwinnair10/LeetCode/tree/master/0460-lfu-cache) |
+| [0500-keyboard-row](https://github.com/ashwinnair10/LeetCode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ashwinnair10/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinnair10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/ashwinnair10/LeetCode/tree/master/0811-subdomain-visit-count) |
