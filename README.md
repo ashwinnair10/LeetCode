@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/ashwinnair10/LeetCode/tree/master/0495-teemo-attacking) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/ashwinnair10/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinnair10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ashwinnair10/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinnair10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/ashwinnair10/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/ashwinnair10/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ashwinnair10/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/ashwinnair10/LeetCode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/ashwinnair10/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ashwinnair10/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ashwinnair10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ashwinnair10/LeetCode/tree/master/0874-walking-robot-simulation) |
