@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ashwinnair10/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/ashwinnair10/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashwinnair10/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinnair10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ashwinnair10/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinnair10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ashwinnair10/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashwinnair10/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashwinnair10/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/ashwinnair10/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ashwinnair10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
