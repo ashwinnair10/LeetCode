@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashwinnair10/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/ashwinnair10/LeetCode/tree/master/0495-teemo-attacking) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinnair10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ashwinnair10/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinnair10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/ashwinnair10/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0390-elimination-game](https://github.com/ashwinnair10/LeetCode/tree/master/0390-elimination-game) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ashwinnair10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashwinnair10/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ashwinnair10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/ashwinnair10/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0875-koko-eating-bananas](https://github.com/ashwinnair10/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashwinnair10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/ashwinnair10/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ashwinnair10/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinnair10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ashwinnair10/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashwinnair10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ashwinnair10/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
@@ -629,4 +634,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashwinnair10/LeetCode/tree/master/0258-add-digits) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
