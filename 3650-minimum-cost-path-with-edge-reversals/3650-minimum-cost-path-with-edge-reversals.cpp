@@ -7,7 +7,7 @@ public:
     };
     int minCost(int n, vector<vector<int>>& edges) {
         int ans=INT_MAX;
-        vector<vector<vector<int>>> adj(n);
+        vector<vector<pair<int,int>>> adj(n);
         for(auto i:edges){
             adj[i[0]].push_back({i[1],i[2]});
             adj[i[1]].push_back({i[0],2*i[2]});
@@ -29,10 +29,10 @@ public:
                 continue;
             }
             for(auto i :adj[curr]){
-                if(!visit[i[0]]){
-                    if(cost+i[1]<dist[i[0]]){
-                        q.push({i[0],cost+i[1]});
-                        dist[i[0]]=cost+i[1];
+                if(!visit[i.first]){
+                    if(cost+i.second<dist[i.first]){
+                        q.push({i.first,cost+i.second});
+                        dist[i.first]=cost+i.second;
                     }
                 }
             }
