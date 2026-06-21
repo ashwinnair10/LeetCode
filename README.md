@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/ashwinnair10/LeetCode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ashwinnair10/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/ashwinnair10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ashwinnair10/LeetCode/tree/master/1840-maximum-building-height) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ashwinnair10/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashwinnair10/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ashwinnair10/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/ashwinnair10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ashwinnair10/LeetCode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ashwinnair10/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ashwinnair10/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashwinnair10/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1833-maximum-ice-cream-bars](https://github.com/ashwinnair10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ashwinnair10/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinnair10/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2542-maximum-subsequence-score](https://github.com/ashwinnair10/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -653,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ashwinnair10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
