@@ -38,19 +38,13 @@ public:
         vector<vector<int>> res(r-l+1);
         test1(ans,root,l,0,0);
         for(int i=0;i<ans.size();i++){
-            cout<<"[";
             for(int j=0;j<ans[i].size();j++){
                 sort(ans[i][j].begin(),ans[i][j].end());
-                cout<<"[";
                 for(int k=0;k<ans[i][j].size();k++){
-                    cout<<ans[i][j][k]<<",";
                     res[j].push_back(ans[i][j][k]);
                 }
-                cout<<"] , ";
             }
-            cout<<"]\n";
         }
-        
         return res;
     }
 };
