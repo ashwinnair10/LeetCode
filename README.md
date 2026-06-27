@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ashwinnair10/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2899-last-visited-integers](https://github.com/ashwinnair10/LeetCode/tree/master/2899-last-visited-integers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ashwinnair10/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashwinnair10/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/ashwinnair10/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ashwinnair10/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashwinnair10/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashwinnair10/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashwinnair10/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ashwinnair10/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
