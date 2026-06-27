@@ -4,15 +4,11 @@ public:
         map<int,int> map;
         for(auto i:nums)
         map[i]++;
-        
         int ans=max(1,map[1]%2?map[1]:map[1]-1);
-        for(auto i:map)
-        cout<<i.first<<"**"<<i.second<<"\n";
         for(auto i:map){
             int c=0;
             long long x=i.first;
             while(true){
-                cout<<x<<"\n";
                 if(map[x]>1){
                     c++;
                     map[x]=0;
