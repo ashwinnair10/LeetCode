@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ashwinnair10/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ashwinnair10/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ashwinnair10/LeetCode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ashwinnair10/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashwinnair10/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/ashwinnair10/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0874-walking-robot-simulation](https://github.com/ashwinnair10/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/ashwinnair10/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ashwinnair10/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ashwinnair10/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashwinnair10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/ashwinnair10/LeetCode/tree/master/1268-search-suggestions-system) |
