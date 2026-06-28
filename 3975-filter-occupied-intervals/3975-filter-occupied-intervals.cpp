@@ -15,8 +15,6 @@ public:
             }
         }
         it.push_back({s,e});
-        for(auto i:it)
-        cout<<i[0]<<" -- "<<i[1]<<"\n";
         vector<vector<int>> ans;
         for(int i=0;i<it.size();i++){
             if(it[i][1]<fs||it[i][0]>fe){
