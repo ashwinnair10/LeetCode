@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ashwinnair10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ashwinnair10/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashwinnair10/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0473-matchsticks-to-square](https://github.com/ashwinnair10/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/ashwinnair10/LeetCode/tree/master/0495-teemo-attacking) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ashwinnair10/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ashwinnair10/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ashwinnair10/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ashwinnair10/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0473-matchsticks-to-square](https://github.com/ashwinnair10/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashwinnair10/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashwinnair10/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ashwinnair10/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ashwinnair10/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ashwinnair10/LeetCode/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/ashwinnair10/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ashwinnair10/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Indexed Tree
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ashwinnair10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/ashwinnair10/LeetCode/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/ashwinnair10/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
@@ -729,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashwinnair10/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/ashwinnair10/LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
