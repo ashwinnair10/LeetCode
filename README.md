@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashwinnair10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashwinnair10/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/ashwinnair10/LeetCode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/ashwinnair10/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/ashwinnair10/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashwinnair10/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ashwinnair10/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/ashwinnair10/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ashwinnair10/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ashwinnair10/LeetCode/tree/master/0257-binary-tree-paths) |
