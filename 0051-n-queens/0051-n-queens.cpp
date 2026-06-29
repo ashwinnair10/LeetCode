@@ -4,7 +4,6 @@ public:
         return (i<n&&j<n)&&!(row[i]||col[j]||diag1[i-j+n-1]||diag2[i+j]);
     }
     void test(vector<vector<string>>& ans,vector<string>& board,int i,int j,int q,int& n,vector<int>& row,vector<int>& col,vector<int>& diag1,vector<int>& diag2){
-        cout<<"i : "<<i<<" -- j : "<<j<<" -- q : "<<q<<"\n";
         if(!valid(i,j,row,col,diag1,diag2,n))
         return;
         board[i][j]='Q';
