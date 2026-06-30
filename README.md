@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ashwinnair10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/ashwinnair10/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/ashwinnair10/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinnair10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashwinnair10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ashwinnair10/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/ashwinnair10/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashwinnair10/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/ashwinnair10/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/ashwinnair10/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinnair10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ashwinnair10/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ashwinnair10/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinnair10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashwinnair10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinnair10/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashwinnair10/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashwinnair10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashwinnair10/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
