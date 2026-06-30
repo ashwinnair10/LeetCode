@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/ashwinnair10/LeetCode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ashwinnair10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ashwinnair10/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1774-closest-dessert-cost](https://github.com/ashwinnair10/LeetCode/tree/master/1774-closest-dessert-cost) |
 | [1833-maximum-ice-cream-bars](https://github.com/ashwinnair10/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ashwinnair10/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashwinnair10/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ashwinnair10/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashwinnair10/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashwinnair10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1774-closest-dessert-cost](https://github.com/ashwinnair10/LeetCode/tree/master/1774-closest-dessert-cost) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ashwinnair10/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/ashwinnair10/LeetCode/tree/master/3660-jump-game-ix) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ashwinnair10/LeetCode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/ashwinnair10/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/ashwinnair10/LeetCode/tree/master/0494-target-sum) |
+| [1774-closest-dessert-cost](https://github.com/ashwinnair10/LeetCode/tree/master/1774-closest-dessert-cost) |
 ## Memoization
 |  |
 | ------- |
