@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ashwinnair10/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/ashwinnair10/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/ashwinnair10/LeetCode/tree/master/3660-jump-game-ix) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/ashwinnair10/LeetCode/tree/master/1774-closest-dessert-cost) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ashwinnair10/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/ashwinnair10/LeetCode/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ashwinnair10/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashwinnair10/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashwinnair10/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/ashwinnair10/LeetCode/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ashwinnair10/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/ashwinnair10/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ashwinnair10/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashwinnair10/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashwinnair10/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ashwinnair10/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ashwinnair10/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ashwinnair10/LeetCode/tree/master/0310-minimum-height-trees) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -665,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/ashwinnair10/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashwinnair10/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashwinnair10/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashwinnair10/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ashwinnair10/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Data Stream
@@ -683,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/ashwinnair10/LeetCode/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashwinnair10/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ashwinnair10/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ashwinnair10/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
