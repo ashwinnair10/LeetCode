@@ -12,22 +12,15 @@ public:
         sum.push_back(q);
         len.push_back(l);
         for(auto i:s){
-            // cout<<i<<" -- "<<(i-'0')<<"\n";
             if((i-'0')!=0){
                 n=((n*p)+(i-'0'))%mod;
                 l++;
-                // cout<<"n : "<<n<<" -- p : "<<p<<"\n";
                 q+=(i-'0');
             }
             numbers.push_back(n);
             sum.push_back(q);
             len.push_back(l);
         }
-        // for(auto i:numbers)
-        // cout<<i<<" ";
-        // cout<<"\n";
-        // for(auto i:sum)
-        // cout<<i<<" ";
         vector<int> ans;
         for(auto i:queries){
             int k=len[i[1]+1]-len[i[0]];
