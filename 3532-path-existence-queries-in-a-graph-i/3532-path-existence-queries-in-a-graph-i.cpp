@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& adj,int ind,int par,vector<int>& part,int& t){
+    void dfs(vector<vector<int>>& adj,int& ind,int& par,vector<int>& part,int& t){
         part[ind]=t;
         for(auto i:adj[ind]){
             if(i!=par){
@@ -16,17 +16,11 @@ public:
                 adj[i+1].push_back(i);
             }
         }
-        // for(int i=0;i<n;i++){
-        //     cout<<i<<" : ";
-        //     for(auto j:adj[i])
-        //     cout<<j<<" , ";
-        //     cout<<"\n";
-        // }
         vector<int> part(n,-1);
-        int t=0;
+        int t=0,p=-1;
         for(int i=0;i<n;i++){
             if(part[i]==-1){
-                dfs(adj,i,-1,part,t);
+                dfs(adj,i,p,part,t);
                 t++;
             }
         }
