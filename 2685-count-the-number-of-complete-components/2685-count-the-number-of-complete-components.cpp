@@ -26,7 +26,6 @@ public:
             if(comp[i]==-1){
                 dfs(adj,comp,i,t,components,e);
                 t++;
-                cout<<"edges : "<<e<<"\n";
             }
             e=0;
         }
@@ -38,11 +37,9 @@ public:
                     f=false;
                     break;
                 }
-                cout<<j<<" ";
             }
             if(f)
             ans++;
-            cout<<"\n";
         }
         return ans;
     }
